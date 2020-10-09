@@ -8,7 +8,7 @@ DIY case inspired by the original Monome Norns
 * A 3D-printed shell
 * A polycarbonate window for the OLED (OPTIONAl)
 
-I chose to have a top panel made out of aluminum as a nod to the original Norns, but any flat material will work.
+I chose to have a top panel made out of aluminum as a nod to the original Norns, but any flat material will work. If you want an aluminum version for yourself I have some extras for sale here: https://rvrb.io/2020-aluminum-top-19qjma
 
 The shell includes hidden ventilation slots around the top lip and on the bottom face, and is optimized to print with minimal supports. The polycarbonate window is not necessary, but looks nice, especially in smoked acrylic. The OLED window is a simple rectangle, so you could cut it yourself to save money over laser cutting. 
 
