@@ -8,7 +8,9 @@ DIY case inspired by the original Monome Norns
 * A 3D-printed shell
 * A polycarbonate window for the OLED (OPTIONAl)
 
-The shell includes hidden ventilation slots around the top lip and on the bottom face, and is optimized to print with minimal supports. The polycarbonate window is not necessary, but looks nice, especially in smoked acrylic. The OLED window is a simple rectangle, so you could cut it yourself to save money over laser cutting. I chose to have a top panel made out of aluminum as a nod to the original Norns, though any 2-3mm thick material will work.
+I chose to have a top panel made out of aluminum as a nod to the original Norns, but any flat material will work.
+
+The shell includes hidden ventilation slots around the top lip and on the bottom face, and is optimized to print with minimal supports. The polycarbonate window is not necessary, but looks nice, especially in smoked acrylic. The OLED window is a simple rectangle, so you could cut it yourself to save money over laser cutting. 
 
 #### All of the hardware for the original Norns Shield case can be used, but this design is optimized for the following differences:
 * Shorter keyswitch shaft length: [C&K Part No. PVA1 OA H4 1.2N V2](https://www.digikey.com/en/products/detail/c-k/PVA1-OA-H4-1.2N-V2/417720)
