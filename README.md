@@ -1,7 +1,7 @@
 # norns-shield-diy-case
 DIY case inspired by the original Monome Norns
 
-[Main Image Here]
+![Norns Shield with Case](/images/norns-case-low.jpg)
 
 #### The case is made of three parts:
 * A laser-cut top panel
@@ -10,11 +10,11 @@ DIY case inspired by the original Monome Norns
 
 The shell includes hidden ventilation slots around the top lip and on the bottom face, and is optimized to print with minimal supports. The polycarbonate window is not necessary, but looks nice, especially in smoked acrylic. The OLED window is a simple rectangle, so you could cut it yourself to save money over laser cutting. I chose to have a top panel made out of aluminum as a nod to the original Norns, though any 2-3mm thick material will work.
 
-[pic]
-
 #### All of the hardware for the original Norns Shield case can be used, but this design is optimized for the following differences:
 * Shorter keyswitch shaft length: [C&K Part No. PVA1 OA H4 1.2N V2](https://www.digikey.com/en/products/detail/c-k/PVA1-OA-H4-1.2N-V2/417720)
 * Low-profile, 3D-printed keycap for the above keyswitch
+
+![Norns Shield with Case](/images/norns-case-iso-shaded.PNG)
 
 ### Assembly Details
 * If you've already built your Norns Shield, dissasemble the case and discard the 2 plastic spacers from beneath the RPi. Reserve all other hardware
