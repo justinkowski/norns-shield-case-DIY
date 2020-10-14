@@ -12,9 +12,9 @@ I chose to have a top panel made out of aluminum as a nod to the original Norns,
 
 The shell includes hidden ventilation slots around the top lip and on the bottom face, and is optimized to print with minimal supports. The polycarbonate window is not necessary, but looks nice, especially in smoked acrylic. The OLED window is a simple rectangle, so you could cut it yourself to save money over laser cutting. 
 
-#### All of the hardware for the original Norns Shield case can be used, but this design is optimized for the following differences:
-* Shorter keyswitch shaft length: [C&K Part No. PVA1 OA H4 1.2N V2](https://www.digikey.com/en/products/detail/c-k/PVA1-OA-H4-1.2N-V2/417720)
-* Low-profile, 3D-printed keycap for the above keyswitch
+#### All of the hardware for the original Norns Shield case can be used. 
+* The previous version of this case required 3D-printed buttons, it can now use the buttons and knobs included with the kit.
+* If you'd like to use an aftermarket knob, any with diameter <12mm will work.
 
 ![Norns Shield with Case](/images/norns-case-iso-shaded.PNG)
 
