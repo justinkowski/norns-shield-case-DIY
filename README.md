@@ -8,7 +8,7 @@ DIY case inspired by the original Monome Norns
 * A 3D-printed shell
 * A polycarbonate window for the OLED (OPTIONAl)
 
-* EDIT Feb 2021: Added an alternate version of the top panel that fits the case that now ships with the shield.
+#### EDIT Feb 2021: Added an alternate version of the top panel that fits the case that now ships with the shield.
 
 I chose to have a top panel made out of aluminum as a nod to the original Norns, but any flat material will work. If you want an aluminum version for yourself I have some extras for sale here: https://rvrb.io/2020-aluminum-top-19qjma
 
